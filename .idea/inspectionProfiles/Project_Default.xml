@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="random.random.randint" />
+          <option value="Lab4_Lab6.prezentare.ui.infrastructura" />
+          <option value="Lab4_Lab6.prezentare.ui.business" />
+          <option value="Lab4_Lab6.prezentare.ui.numar_calatorii_lista" />
+          <option value="scypy" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
